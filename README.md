@@ -1,0 +1,2 @@
+# WordExtraction
+投稿文章からPython内のライブラリのみを使って単語抽出するPythonコードです。
